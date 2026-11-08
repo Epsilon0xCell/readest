@@ -1,3 +1,7 @@
+![Banner: an open book resting on the seat of a deep green cloth armchair under the warm amber arc of a reading lamp, its print softly blurred, shelves of dark book spines falling out of focus behind](banner.png)
+
+<p align="center"><img src="logo.png" alt="readest logo: an open book seen in macro down into its gutter, the gilt edges of its two page blocks converging in a bright V, blurred print lines on the cream pages either side" width="200"></p>
+
 <div align="center">
   <a href="https://readest.com?utm_source=github&utm_medium=referral&utm_campaign=readme" target="_blank">
     <img src="https://github.com/readest/readest/blob/main/apps/readest-app/src-tauri/icons/icon.png?raw=true" alt="Readest Logo" width="20%" />
